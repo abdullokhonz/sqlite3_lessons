@@ -1,1 +1,1 @@
-sqlite3 lessons are here.
+SQL lessons are here.
